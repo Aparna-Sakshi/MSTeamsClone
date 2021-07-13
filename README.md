@@ -1,8 +1,9 @@
 # MS Teams Clone
+In this project an android app was built to do group video call and chat. 
 ## Features
 *  **Register and Login**
 *  **Permission to allow microphone and camera**
-*  **Side Menu**
+*   **Side Menu**
     *  Users can see their profile information on the top
     *  Meet : Here users can create or join new groups
     *  Chat : Here users can view their previously created groups and chat messages
@@ -16,7 +17,7 @@
     *  Join and enter video call
 
 *  **Video Call**
-    *  Multiple users can join the video call
+    *  Multiple users can join the video call and chat
     *  Mute/Unmute audio
     *  Turn on/off video
     *  In meeting chat (users can continue this chat later also)
@@ -46,6 +47,8 @@ Download and install the app from releases in the master branch
 
 [Link for presentation](https://docs.google.com/presentation/d/1k9WMyYePS_0XulikQxLRjx8XyfsEsFPsNZZhHQEuRHk/edit?usp=sharing)
 
+[How I used Agile](https://docs.google.com/presentation/d/189jRZ_OsqO5eqCRaRYoL12MdK4-YzNerBIeE5x7HM3g/edit?usp=sharing)
+
 #### Demo Videos:
 [Register and login](https://youtu.be/iIkjG7ZzMn4)
 
@@ -70,9 +73,10 @@ Download and install the app from releases in the master branch
 * Firebase authentication and realtime database
 
 ## Note
-* When entering the meeting id don't enter any extra character including space
+* When entering the meeting id don't enter any extra character including space.
 * Scroll down in the chat while viewing the new messages
-* Although unlimited number of users can join the call, agora documentation recommends that number of users join the call should be less than 7 for better performance.
+* Although unlimited number of users can join the call, agora documentation recommends that number of users joining the call should be less than 7 for better performance.
+* The username given will be displayed to other users while chatting.
 
 
 
